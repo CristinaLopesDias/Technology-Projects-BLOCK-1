@@ -6,7 +6,7 @@ Learn how to check where you are and explore folders.
 
 ### 📝 Tasks
 1. Open the Terminal.  
-2. Type `pwd` and write down the output.  
+2. Type `pwd` and write down the output. /Users/elainedias 
 3. List all files in your current folder using `ls`.  
 4. Move into your CLI assignment folder for Week 02:
    ```bash
